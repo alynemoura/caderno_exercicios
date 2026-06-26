@@ -1,7 +1,7 @@
 Capítulo 08: Operações Vetoriais, Indexação, Broadcasting e Manipulação de Matrizes com NumPy
-https://img.shields.io/badge/Python-3.8%252B-blue.svg
-https://img.shields.io/badge/NumPy-1.21%252B-green.svg
-https://img.shields.io/badge/License-MIT-yellow.svg
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-1.21+-green.svg)](https://numpy.org/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 📋 Sobre o Capítulo
 Este repositório contém a implementação prática dos exercícios do Capítulo 08, que aborda conceitos fundamentais de manipulação de arrays com NumPy. O material foi desenvolvido para consolidar o aprendizado sobre operações vetoriais, indexação avançada, broadcasting e manipulação de matrizes.
